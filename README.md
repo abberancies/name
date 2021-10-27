@@ -9,5 +9,3 @@
 * Open a terminal window in the desired location
 * Run the command `python main.py`
 * Enjoy.
-
-![Program Preview](https://imgur.com/ylpO1R3)
