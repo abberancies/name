@@ -1,0 +1,5 @@
+{
+    "richpresence": true,
+    "webhook": true,
+    "webhookurl": "ENTER_WEBHOOK_URL_HERE"
+}
